@@ -1,1 +1,4 @@
-lucky-word: Cuban
+---
+wordConfig:
+  preamble: The lucky word is
+  luckyWord: Irish
